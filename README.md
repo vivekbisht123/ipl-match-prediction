@@ -47,7 +47,3 @@ The prediction model uses Logistic Regression to estimate win probabilities base
 - Historical performance data
 - Venue-specific factors
 - Team-specific factors
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
